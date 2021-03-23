@@ -1,2 +1,2 @@
 # Projeto_Alura
-Projeto Leilão da aula de Jenkins da Alura
+Projeto Leilão do curso de Jenkins da Alura
